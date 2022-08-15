@@ -2,7 +2,10 @@
   "$schema": "./node_modules/nx/schemas/workspace-schema.json",
   "version": 2,
   "projects": {
+    "mangastudio-api": "apps/mangastudio-api",
     "mangastudio-mobile": "apps/mangastudio-mobile",
-    "mangastudio-mobile-e2e": "apps/mangastudio-mobile-e2e"
+    "mangastudio-mobile-e2e": "apps/mangastudio-mobile-e2e",
+    "mangastudio-web": "apps/mangastudio-web",
+    "mangastudio-web-e2e": "apps/mangastudio-web-e2e"
   }
 }

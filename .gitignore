@@ -102,3 +102,6 @@ buck-out/
 
 
 apps/mangastudio-mobile-e2e/artifacts
+
+# Next.js
+.next
